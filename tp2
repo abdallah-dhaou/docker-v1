@@ -1,0 +1,10 @@
+1. Créer un conteneur basé sur l'image apache2 et nommer celle-ci "my_apache2_cnt"
+2. Exposer le port 4000 de note machine sur le port du container "my_apache2_cnt"
+3. Créer un conteneur basé sur tomcat:jre17-temerinfocal
+4. Pourquoi la quastion N°3 ne passe pas ? corrigerle
+5. Créer 3 conteneurs centos avec les noms centos-1 2 et 3
+6. Supprimer les 3 conteneurs centos avec un seul commande.
+7. Publier un port aléatoire d'un conteneur docker.
+8. Limiter la publication du port sur localhost seulement pour un conteneur httpd.
+9. Lancer la commande "docker start centos-2" , pourquoi ça passe pas ?
+10. Supprimer l'image apache2, faire le nécessaire.
