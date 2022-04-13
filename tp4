@@ -1,0 +1,5 @@
+1. Créer un volume avec le nom "my_data"
+2. Lancer un conteneur basé sur httpd et attaché le volume "my_data" à celle-là
+3. Editer la page d'acceuil de notre serveur web avec le message "Hello from userX"
+4. Lancer un autre conteneur basé sur ubuntu/apache2, celle-ci doit afficher le même contenu que question N°3
+5. 
