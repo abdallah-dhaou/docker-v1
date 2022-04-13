@@ -2,4 +2,6 @@
 2. Lancer un conteneur basé sur httpd et attaché le volume "my_data" à celle-là
 3. Editer la page d'acceuil de notre serveur web avec le message "Hello from userX"
 4. Lancer un autre conteneur basé sur ubuntu/apache2, celle-ci doit afficher le même contenu que question N°3
-5. 
+5. Créer un fichier index.html sous /opt/app1 avec un contenu de votre choix
+6. Lancer un conteneur httpd qui prend en charge le fichier index précedement créé
+7. Supprimer tous les conteneur sur la machine avec une seule commande (docker container -q pour retourner les IDs)
