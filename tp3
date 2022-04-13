@@ -1,0 +1,7 @@
+1. Créer un compte sur docker-hub
+2. Créer un repo avec votre nom (repo public)
+3. Authentifiez-vous via la ligne de commande sur docker
+4. Récuperer l'image ubuntu/apache2 sur votre machine
+5. Re-tager l'image avec le nom de votre repo et v1 
+6. Publier l'image sur docker hub
+7. Lancer un conteneur basé sur votre image 
