@@ -1,5 +1,5 @@
 1. créer un nouveau réseau de type bridge
-2. Créer un nouveau réseau de type none
+2. 
 3. Créer un conteneur et l'attacher au réseau de type bridge récemment créé
 4. Créer un conteneur et lattacher au réseau none
 5. Créer deux contneurs et les attacher au réseau bridge par défaut avec les noms cont1 et cont2
