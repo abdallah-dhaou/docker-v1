@@ -8,4 +8,6 @@
 8. Créer deux conteneurs cont3 et cont4 et les attacher à notre nouvelle réseau bridge.
 9. Refaire 6. Et 7. mais avec cont3 et cont4
 10. Comment peut-on récupérer l'adresse IP d'un conteneur en cours d'exécution ?
-11. 
+11. Créer un conteneur nginx avec le nom cont5
+12. Connecte le conteneur cont5 au réseau créé en 1.
+
