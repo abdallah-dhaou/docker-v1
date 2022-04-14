@@ -1,0 +1,4 @@
+1. Installer docker compose sur votre machine
+2. Créer le fichier de configuration pour faire la communication entre wordpress et mariadb
+3. Lancer notre application en mode détaché
+
