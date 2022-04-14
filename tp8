@@ -1,0 +1,5 @@
+1. Créer un volume portainer_data
+2. Installer portainer sur votre machine à travers docker en attachant le volume précedement créé
+3. Lancer des conteneurs via portainer.
+4. Supprimé les images non utilisé via portainer.
+5. 
