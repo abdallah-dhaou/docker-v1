@@ -1,0 +1,11 @@
+1. créer un nouveau réseau de type bridge
+2. Créer un nouveau réseau de type none
+3. Créer un conteneur et l'attacher au réseau de type bridge récemment créé
+4. Créer un conteneur et lattacher au réseau none
+5. Créer deux contneurs et les attacher au réseau bridge par défaut avec les noms cont1 et cont2
+6. Connectez-vous à cont1 et essaye de pinger cont2 avec son adress IP, le ping passe ?
+7. Connectez-vous à cont2 et essaye de pinger cont1 avec son nom, le ping passe ?
+8. Créer deux conteneurs cont3 et cont4 et les attacher à notre nouvelle réseau bridge.
+9. Refaire 6. Et 7. mais avec cont3 et cont4
+10. Comment peut-on récupérer l'adresse IP d'un conteneur en cours d'exécution ?
+11. 
