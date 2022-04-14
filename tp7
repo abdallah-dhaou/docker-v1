@@ -1,3 +1,3 @@
 1. Créer une image basé sur centos7 avec dig installé
-2. Faire le nécessaire pour que l'image lance la commande par défaut
+2. Faire le nécessaire pour que l'image lance la commande "dig" par défaut
 3. Créer une image pour contenairiser la commande cat
