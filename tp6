@@ -1,0 +1,8 @@
+1. Créer un conteneur cnA base sur l'image ubuntu et installé vim, axel
+2. Nous voulons avoir une image avec cette configuration chaque fois on lance un conteneur, faire le nécessaire.
+3. Créer une image base sur centos et installé httpd  avec commit 
+4. Créer une image base sur centos et installé httpd et expose le port 90 avec Dockerfile
+5. Créer deux images basé sur tomcat: jdk8-corretto et tomcat:jdk11-corretto avec la notion des arguments
+6. Créer un projet (dossier avec un fichier index.html)
+7. Créer une image qui contient votre projet
+8. Faire des modification sur votre fichier index et rebuild l'image.
