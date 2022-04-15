@@ -1,0 +1,11 @@
+1. Créer un conteneur nginx avec une limitation RAM de 256m
+2. Créer un conteneur httpd avec une limitaion cpu de 2 coeurs
+3. Créer un conteneur tomcat avec une limitation pour le premier coeur disponible
+4. Vérifier l'état des conteneurs
+5. Accéder au log du conteneur httpd et faire l'affichage en temps réel 
+6. Afficher les derniers 27 ligne du log de nginx
+7. Afficher le log de tomcat depuis 5 minutes
+8. Faire un backup de l'image ubuntu
+9. Supprimer l'image ubuntu de votre machine local (ne supprimer pas le backup!)
+10. Exporter l'image ubuntu créé en 8.
+11. 
